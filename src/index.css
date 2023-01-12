@@ -8,3 +8,9 @@
     font-family: "Inter", sans-serif;
   }
 }
+
+@layer components {
+  .custome-container {
+    @apply w-5/6 xl:max-w-screen mx-auto;
+  }
+}
