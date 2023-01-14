@@ -5,10 +5,10 @@ import logo from "./../../assets/images/peerlist-logo.webp";
 
 const Navbar = () => {
   return (
-    <nav className="bg-orange-mist h-14 fixed top-0 right-0 left-0">
+    <nav className="bg-orange-mist fixed top-0 right-0 left-0">
       <div className="custome-container flex justify-between items-center">
         {/* nav menu */}
-        <div className="flex items-center py-2 lg:py-2 space-x-4">
+        <div className="flex items-center py-2 lg:py-3 space-x-4">
           <div>
             <Link to="/">
               <img className="w-36" src={logo} alt="Brnad logo" />

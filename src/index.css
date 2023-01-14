@@ -7,6 +7,10 @@
   body {
     font-family: "Inter", sans-serif;
   }
+
+  h1 {
+    @apply text-3xl md:text-6xl font-normal mb-4 text-center;
+  }
 }
 
 @layer components {

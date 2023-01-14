@@ -4,6 +4,8 @@ module.exports = {
   theme: {
     colors: {
       "orange-mist": "#FAF8F6",
+      white: "#fff",
+      "green-bright": "#00AA45",
     },
     maxWidth: {
       screen: "1200px",
