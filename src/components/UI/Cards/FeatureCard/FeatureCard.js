@@ -1,15 +1,15 @@
 import React from "react";
-import { GrFormCheckmark } from "react-icons/gr";
+import { BsCheck2 } from "react-icons/bs";
 
 const FeatureCard = ({ feature }) => {
   const { featureName, description } = feature;
   return (
-    <article className="flex border border-primaryBorder rounded-lg p-4 bg-white">
+    <article className="flex border border-primaryBorder rounded-lg p-4 bg-white gap-2">
       <span>
-        <GrFormCheckmark />
+        <BsCheck2 className="text-green-bright text-2xl" />
       </span>
       <div>
-        <p>{featureName}</p>
+        <h4>{featureName}</h4>
         <p>{description}</p>
       </div>
     </article>
