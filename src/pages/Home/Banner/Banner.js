@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import SectionWrapper from "../../../components/UI/SectionWrapper/SectionWrapper";
-import UserCard from "../../../components/UI/UserCard/UserCard";
+import UserCard from "../../../components/UI/Cards/UserCard/UserCard";
 
 const Banner = () => {
   const [userInfo, setUserInfo] = useState([]);

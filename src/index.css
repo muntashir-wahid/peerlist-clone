@@ -11,6 +11,12 @@
   h1 {
     @apply text-3xl md:text-6xl font-normal mb-4 text-center;
   }
+  h2 {
+    @apply text-green-dark font-medium text-base uppercase tracking-wider mb-4;
+  }
+  h3 {
+    @apply text-2xl lg:text-5xl lg:leading-[58px] mb-2 tracking-tight;
+  }
 }
 
 @layer components {

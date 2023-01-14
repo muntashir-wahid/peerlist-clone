@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "63c19d1c411db3868872069f",
+    "featureName": "Proof of work",
+    "description": "Showcase your proof-of-work from different platforms on Peerlist profile."
+  },
+  {
+    "_id": "63c19d1c90b0a13c0e079bdd",
+    "featureName": "Always up-to-date",
+    "description": "With integrations, your portfolio is always up-to-date"
+  },
+  {
+    "_id": "63c19d1cdc638d5d39adc228",
+    "featureName": "Verified Work Experience",
+    "description": "Improved credibility of your profile with verified work experience!"
+  },
+  {
+    "_id": "63c19d1c60ba5fb4ab7e096d",
+    "featureName": "Profile Analytics",
+    "description": "Know who viewed your profile and where people are clicking."
+  }
+]

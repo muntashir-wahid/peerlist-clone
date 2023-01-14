@@ -6,6 +6,7 @@ module.exports = {
       "orange-mist": "#FAF8F6",
       white: "#fff",
       "green-bright": "#00AA45",
+      "green-dark": "#219653",
     },
     maxWidth: {
       screen: "1200px",

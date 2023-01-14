@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "63c19d1c411db3868872069f",
+    "featureName": "Proof of work",
+    "description": "No guess-work. Hire based on proof-of-work!"
+  },
+  {
+    "_id": "63c19d1c90b0a13c0e079bdd",
+    "featureName": "Resume",
+    "description": "Check qualifications, resumé and verified work experience."
+  },
+  {
+    "_id": "63c19d1cdc638d5d39adc228",
+    "featureName": "Unique Candidate Details",
+    "description": "Know if candidate is holding any offer, notice period and much more."
+  },
+  {
+    "_id": "63c19d1c60ba5fb4ab7e096d",
+    "featureName": "ATS Integrations",
+    "description": "Integrate with your existing ATS to import job posts automatically."
+  }
+]
